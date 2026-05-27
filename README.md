@@ -1,158 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Anand Singh | GitHub Profile</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: "Segoe UI", sans-serif;
-    }
+# Anand Singh
 
-    body {
-      background: #0f172a;
-      color: #e2e8f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      padding: 20px;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Developer;DSA+%26+Problem+Solving+Enthusiast" />
+</p>
 
-    .card {
-      width: 100%;
-      max-width: 700px;
-      background: #111827;
-      border: 1px solid #1e293b;
-      border-radius: 18px;
-      padding: 40px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-    }
+---
 
-    h1 {
-      font-size: 42px;
-      font-weight: 700;
-      margin-bottom: 10px;
-      color: #ffffff;
-    }
+## 🧠 About Me
 
-    .role {
-      color: #94a3b8;
-      font-size: 18px;
-      margin-bottom: 28px;
-    }
+🎓 Computer Science Engineering Student  
+💻 Focused on **Backend Development & Scalable Systems**  
+🚀 Building practical **Full Stack & AI-integrated projects**  
+🧠 Interested in **DSA • System Design • AI Solutions**
 
-    p {
-      line-height: 1.7;
-      color: #cbd5e1;
-      margin-bottom: 28px;
-    }
+---
 
-    .stack {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-bottom: 30px;
-    }
+## 🌐 Connect
 
-    .stack span {
-      padding: 10px 16px;
-      border-radius: 999px;
-      background: #1e293b;
-      color: #e2e8f0;
-      font-size: 14px;
-      border: 1px solid #334155;
-    }
+<p align="center">
+  <a href="https://github.com/anandsinghsg9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/anandsingh-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anandsinghsg9@gmial.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-    .links {
-      display: flex;
-      gap: 20px;
-      margin-top: 10px;
-    }
+---
 
-    .links a {
-      text-decoration: none;
-      color: #ffffff;
-      transition: 0.3s ease;
-      font-weight: 500;
-    }
+## ⚙️ Tech Stack
 
-    .links a:hover {
-      color: #60a5fa;
-    }
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,mysql,git,github,html,css,nodejs" />
+</p>
 
-    .footer {
-      margin-top: 40px;
-      font-size: 14px;
-      color: #64748b;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h1>Anand Singh</h1>
-    <div class="role">Full Stack Developer • Java Backend Developer</div>
+---
 
-    <p>
-      Computer Science Engineering student focused on backend systems,
-      scalable web applications, and AI-integrated solutions.
-    </p>
+## 🚀 Featured Repositories
 
-    <div class="stack">
-      <span>Java</span>
-      <span>Spring Boot</span>
-      <span>React</span>
-      <span>MySQL</span>
-      <span>DSA</span>
-      <span>AI/ML</span>
-    </div>
+### 📘 leetDaily
 
-    <div style="margin-top: 35px; margin-bottom: 10px;">
-      <h2 style="font-size: 22px; margin-bottom: 18px; color: #ffffff;">Repositories</h2>
+🔗 https://github.com/anandsinghsg9/leetDaily
 
-      <div style="margin-bottom: 22px;">
-        <a href="https://github.com/anandsinghsg9/leetDaily" target="_blank" style="text-decoration:none; color:#60a5fa; font-size:18px; font-weight:600;">
-          leetDaily
-        </a>
-        <p style="margin-top:8px; color:#cbd5e1; line-height:1.6;">
-          Daily LeetCode problem-solving repository focused on improving data structures,
-          algorithms, and competitive programming consistency.
-        </p>
-      </div>
+* Daily LeetCode problem solving repository
+* Focused on consistency and algorithmic thinking
+* Covers DSA concepts and coding patterns
 
-      <div style="margin-bottom: 22px;">
-        <a href="https://github.com/anandsinghsg9/100DaysDSA" target="_blank" style="text-decoration:none; color:#60a5fa; font-size:18px; font-weight:600;">
-          100DaysDSA
-        </a>
-        <p style="margin-top:8px; color:#cbd5e1; line-height:1.6;">
-          Structured 100-day journey covering core DSA concepts, problem solving,
-          coding patterns, and algorithmic thinking.
-        </p>
-      </div>
+---
 
-      <div style="margin-bottom: 30px;">
-        <a href="https://github.com/anandsinghsg9/attendanceTrackerCollege" target="_blank" style="text-decoration:none; color:#60a5fa; font-size:18px; font-weight:600;">
-          attendanceTrackerCollege
-        </a>
-        <p style="margin-top:8px; color:#cbd5e1; line-height:1.6;">
-          College attendance management system designed to help students monitor,
-          calculate, and manage attendance efficiently.
-        </p>
-      </div>
-    </div>
+### 💯 100DaysDSA
 
-    <div class="links">
-      <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a>
-      <a href="mailto:yourmail@example.com">Email</a>
-    </div>
+🔗 https://github.com/anandsinghsg9/100DaysDSA
 
-    <div class="footer">
-      Building clean, scalable, and meaningful software.
-    </div>
-  </div>
-</body>
-</html>
+* Structured 100 Days DSA challenge
+* Covers arrays, recursion, trees, graphs, DP and more
+* Focused on improving problem-solving skills
+
+---
+
+### 🎓 attendanceTrackerCollege
+
+🔗 https://github.com/anandsinghsg9/attendanceTrackerCollege
+
+* Attendance management system for students
+* Helps monitor and calculate attendance efficiently
+* Designed with practical academic use cases
+
+---
+
+## 📊 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandsinghsg9&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+* ⚡ Backend Development with Java & Spring Boot
+* 🧠 DSA & Competitive Programming
+* 💻 Full Stack Web Development
+* 🚀 Building scalable and production-ready systems
+
+---
+
+<p align="center">
+  <b>Build consistently. Learn deeply. Ship meaningful projects.</b>
+</p>
