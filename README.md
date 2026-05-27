@@ -1,7 +1,7 @@
 # Anand Singh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Developer;DSA+%26+Problem+Solving+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=220&section=header&text=Anand%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20Backend%20Developer&descAlignY=58" />
 </p>
 
 ---
@@ -19,13 +19,15 @@
 
 <p align="center">
   <a href="https://github.com/anandsinghsg9">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/anandsingh-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anandsinghsg9@gmial.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="mailto:anandsinghsg9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -34,7 +36,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,mysql,git,github,html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,spring,react,html,css" />
 </p>
 
 ---
