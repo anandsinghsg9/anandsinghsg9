@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About me
 
 🎓 Computer Science Engineering Student  
 💻 Focused on **Backend Development & Scalable Systems**  
